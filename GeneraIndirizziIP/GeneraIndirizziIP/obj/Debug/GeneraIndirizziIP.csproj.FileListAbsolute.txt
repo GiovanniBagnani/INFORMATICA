@@ -1,0 +1,7 @@
+C:\Users\giova\Desktop\GeneraIndirizziIP\GeneraIndirizziIP\obj\Debug\GeneraIndirizziIP.csproj.AssemblyReference.cache
+C:\Users\giova\Desktop\GeneraIndirizziIP\GeneraIndirizziIP\obj\Debug\GeneraIndirizziIP.csproj.CoreCompileInputs.cache
+C:\Users\giova\Desktop\GeneraIndirizziIP\GeneraIndirizziIP\bin\Debug\GeneraIndirizziIP.exe.config
+C:\Users\giova\Desktop\GeneraIndirizziIP\GeneraIndirizziIP\bin\Debug\GeneraIndirizziIP.exe
+C:\Users\giova\Desktop\GeneraIndirizziIP\GeneraIndirizziIP\bin\Debug\GeneraIndirizziIP.pdb
+C:\Users\giova\Desktop\GeneraIndirizziIP\GeneraIndirizziIP\obj\Debug\GeneraIndirizziIP.exe
+C:\Users\giova\Desktop\GeneraIndirizziIP\GeneraIndirizziIP\obj\Debug\GeneraIndirizziIP.pdb
